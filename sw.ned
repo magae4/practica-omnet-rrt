@@ -54,6 +54,7 @@ network SW1Node
         channel Channel extends ned.DatarateChannel
         {
             datarate = 100kbps;
+	        ber = 0.0005;
         }
 
     submodules:

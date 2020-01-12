@@ -1,0 +1,28 @@
+file 2447 1578853952                                            
+version 2
+run General-0-20200112-16:31:00-13738
+attr configname General
+attr datetime 20200112-16:31:00
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network SW1Node
+attr processid 13738
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 SW1Node.D arrivals ETV
+attr interpolationmode none
+vector 1 SW1Node.D retransmissions ETV
+attr interpolationmode none
+vector 2 SW1Node.D delay ETV
+attr interpolationmode none
+0	538 1226 5 235 0.01 0.6099999982 58 1 1 58 58
+1	1764 341 13 235 0.03199999988 0.6099999982 16 1 1 16 16
+2	2105 341 13 235 0.03199999988 0.6099999982 16 1 1 16 16
+
